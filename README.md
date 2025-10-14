@@ -137,7 +137,7 @@ If you use this work, please cite as:
 ---
 
 ## 🧠 License
-This repository and associated documentation are released under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 
 
