@@ -110,14 +110,6 @@ ESA (2023) *How to Make Roads on the Moon*.
 
 ---
 
-## 🪐 Citation
-If you use this work, please cite as:
-
-> **CosmicThinker (2025).** *SRIP-R: Modular Regolith Pavers for RASSOR-Class Excavators (A Feasible Path to Lunar Infrastructure).*  
-> DOI pending (2025).  
-
----
-
 ## 🛰️ Repository Structure
 
 
