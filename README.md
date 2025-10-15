@@ -128,6 +128,31 @@ ESA (2023) *How to Make Roads on the Moon*.
 
 ---
 
+[![DOI](https://zenodo.org/badge/DOI/10.xxxx/zenodo.xxxxxxx.svg)](https://doi.org/10.xxxx/zenodo.xxxxxxx)
+
+# SRIP-R: Modular Regolith Pavers for RASSOR-Class Excavators  
+### (A Feasible Path to Lunar Infrastructure)
+
+**Authors:** CosmicThinker & ChatGPT  
+**Version:** v1.0 — October 2025  
+**DOI:** [https://doi.org/10.xxxx/zenodo.xxxxxxx](https://doi.org/10.xxxx/zenodo.xxxxxxx)
+
+---
+
+## Abstract
+SRIP-R introduces a modular and scalable system for producing interlocking sintered regolith pavers on the lunar surface using existing RASSOR-class excavators.  
+The system targets TRL 6 within 24 months, demonstrating a robotically managed chain capable of fabricating and deploying durable pavers for dust-mitigating roads, landing pads, and foundations.  
+Each paver requires approximately 0.7 ± 0.1 kWh of energy, yielding 0.64–1.3 m² per Earth day depending on module count.  
+SRIP-R builds on NASA’s RASSOR heritage, offering a low-risk, feasible path toward autonomous lunar infrastructure.
+
+---
+
+## Citation
+CosmicThinker & ChatGPT (2025).  
+**SRIP-R: Modular Regolith Pavers for RASSOR-Class Excavators (A Feasible Path to Lunar Infrastructure).**  
+Zenodo. DOI: [10.xxxx/zenodo.xxxxxxx](https://doi.org/10.xxxx/zenodo.xxxxxxx)
+
+
 ## 🧠 License
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
